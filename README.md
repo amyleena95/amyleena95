@@ -10,10 +10,10 @@
       <li>🤔 I’m looking for help with Openmaint.</li>
       <li>⚡ Fun fact: I have a BSH cat called Astar Boii. <a href="https://www.instagram.com/astarboii/">@astarboii</a></li>
     </ul>
-     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=amyleena95&theme=vue-dark'></img>
+     <img src='https://github-readme-stats.vercel.app/api?username=amyleena95&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true'></img>
   </div>
   <div align='right'>
-     <img src='https://github-readme-stats.vercel.app/api?username=amyleena95&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true'></img>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=amyleena95&theme=vue-dark'></img>
   </div>
 </div>
 
