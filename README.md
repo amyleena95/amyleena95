@@ -9,10 +9,10 @@
 - ⚡ Fun fact: I have a BSH cat called Astar Boii. <a href="https://www.instagram.com/astarboii/">@astarboii</a>
 
 <div class='row'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amyleena95&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amyleena95&theme=dracula"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amyleena95&layout=compact&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=amyleena95&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
   </a>
 </div>
