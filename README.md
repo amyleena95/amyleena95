@@ -7,6 +7,3 @@
 <a href="https://github.com/amyleena95">
   <img src='https://github-readme-stats.vercel.app/api?username=amyleena95&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true'></img>
 </a>
-<a href="https://github.com/amyleena95">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=amyleena95&langs_count=3&theme=vue-dark'></img>
-</a>
