@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 hi, i'm <a href="https://github.com">YOUR NAME</a>! 
+# 🦁 hi, i'm <a href="https://github.com/amyleena95">amy</a>! 
 
 ### *“Simply lovely.”* — Max Verstappen 🏁
 
@@ -12,10 +12,8 @@
 
 | Metric | Status |
 | :--- | :--- |
-| **Current Team** | Oracle Red Bull Racing (Car #3) |
-| **World Championships** | 4x F1 World Champion |
 | **Primary Vibe** | Full send / Coffee / Debugging at 3 AM |
-| **Favorite Track** | Spa / Zandvoort / My Local Terminal |
+| **Favorite Track** | Sepang / My local terminal |
 
 ---
 
@@ -45,7 +43,7 @@
 ### ☕ **Let's Connect**
 
 <p align="center">
-  <a href="https://github.com">
+  <a href="https://github.com/amyleena95">
     <img src="https://shields.io" />
   </a>
   <a href="https://linkedin.com">
